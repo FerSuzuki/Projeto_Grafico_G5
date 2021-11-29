@@ -4,3 +4,5 @@
 
 * Adriano Gonçalves dos Passos
 * Fernando Suzuki Silva  
+* Luis Eduardo da Rocha Henriques
+
